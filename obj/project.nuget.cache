@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5jmqQwZ+M5QPmi6EnULVopR6bK+Q6z0IN8/qHH6Z/mkGFKy0m+8LgYHLsvYHsfsH31I9HH0hMljlt9Cj3yM0gA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\okans\\Desktop\\pratikler\\Try-Catch-Finally\\Try-Catch-Finally.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\okans\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\okans\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
